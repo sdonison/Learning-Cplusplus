@@ -2,7 +2,7 @@
 
 This is my first attempt using C++. The basic Hello World program prints Hello World on the screen, asks the user for their name, greets the user, and welcomes them to C++.
 The second program, Area of Shapes, calculates the area of a rectangle, a triangle, or a circle, depending on the user's choice. The user provides the values required to calculate the selected shape and the program returns the answer to the user.
-The final program, Note Saver, allows the user to save notes to a .txt file. I was unable to get the program to read the file, but the program does sucessfully write to a .txt file in the project folder.
+The final program, Note Saver, allows the user to save notes to a .txt file. Unfortunately, this program was lost when I uploaded the project to GitHub.
 
 I wrote this software to teach myself how to code in C++. Prior to working on this project, I only knew how to code in Python. While the two languages are very similar, learning C++ was challenging. I may return to this in the future.
 
@@ -24,4 +24,4 @@ I used C++ as my programming language and I used the standard (std) library.
 
 # Future Work
 
-* Rewrite the read file code in Note Saver so it sucessfully reads the file
+* Rewrite NoteSaver
