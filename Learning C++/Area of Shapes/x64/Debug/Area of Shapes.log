@@ -1,0 +1,4 @@
+﻿  area_of_shapes.cpp
+C:\Users\slaug\source\repos\Learning C++\Area of Shapes\area_of_shapes.cpp(17,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\slaug\source\repos\Learning C++\Area of Shapes\area_of_shapes.cpp(22,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Area of Shapes.vcxproj -> C:\Users\slaug\source\repos\Learning C++\x64\Debug\Area of Shapes.exe
